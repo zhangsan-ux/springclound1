@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-clould-eureka-service" />
+        <module name="spring-clould-comsumer" />
+        <module name="spring-clould-service-provider1" />
+        <module name="06-springcloud-api-gateway" />
+        <module name="springcloud-hystrix-dashboard" />
+        <module name="spring-cloud-feign" />
+        <module name="spring-clould-service-provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="06-springcloud-api-gateway" target="1.7" />
+      <module name="spring-cloud-feign" target="1.8" />
+      <module name="spring-clould-comsumer" target="1.8" />
+      <module name="spring-clould-eureka-service" target="1.8" />
+      <module name="spring-clould-service-provider" target="1.8" />
+      <module name="spring-clould-service-provider1" target="1.8" />
+      <module name="springcloud-hystrix-dashboard" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="06-springcloud-api-gateway" options="-parameters" />
+      <module name="spring-cloud-feign" options="-parameters" />
+      <module name="spring-clould-comsumer" options="-parameters" />
+      <module name="spring-clould-eureka-service" options="-parameters" />
+      <module name="spring-clould-service-provider" options="-parameters" />
+      <module name="spring-clould-service-provider1" options="-parameters" />
+      <module name="springcloud-hystrix-dashboard" options="-parameters" />
+    </option>
+  </component>
+</project>

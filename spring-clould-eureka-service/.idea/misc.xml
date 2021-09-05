@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../06-springcloud-api-gateway" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-clould-comsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-clould-service-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-clould-service-provider2/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-clould-service-provider1/pom.xml" />
+        <option value="$PROJECT_DIR$/../springcloud-hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-cloud-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/../06-springcloud-api-gateway/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="8" project-jdk-type="JavaSDK" />
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../06-springcloud-api-gateway/06-springcloud-api-gateway.iml" filepath="$PROJECT_DIR$/../06-springcloud-api-gateway/06-springcloud-api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-cloud-feign/spring-cloud-feign.iml" filepath="$PROJECT_DIR$/../spring-cloud-feign/spring-cloud-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-clould-comsumer/spring-clould-comsumer.iml" filepath="$PROJECT_DIR$/../spring-clould-comsumer/spring-clould-comsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-clould-eureka-service.iml" filepath="$PROJECT_DIR$/spring-clould-eureka-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-clould-service-provider/spring-clould-service-provider.iml" filepath="$PROJECT_DIR$/../spring-clould-service-provider/spring-clould-service-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-clould-service-provider1/spring-clould-service-provider1.iml" filepath="$PROJECT_DIR$/../spring-clould-service-provider1/spring-clould-service-provider1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud-hystrix-dashboard/springcloud-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/../springcloud-hystrix-dashboard/springcloud-hystrix-dashboard.iml" />
+    </modules>
+  </component>
+</project>
